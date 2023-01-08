@@ -12,7 +12,9 @@
     "name": "hongqing",
     "email": "1067577595@qq.com"
   },
-  "homepage": "https://github.com/zingxy",
+  "homepage": "https://github.com/zingxy/qing-ui",
+  "license": "MIT",
+  "main": "index.ts",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
